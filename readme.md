@@ -1,6 +1,6 @@
 This Repo for updates only
 
-<img src="/1.png" width="600">
+<img src="/blob/master/1.PNG" width="600">
 <img src="/2.png" width="600">
 <img src="/3.png" width="600">
 <img src="/4.png" width="600">
